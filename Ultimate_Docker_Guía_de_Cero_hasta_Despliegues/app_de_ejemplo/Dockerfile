@@ -6,4 +6,5 @@ COPY . .
 ENV API=https://apiv1.miweb.com
 EXPOSE 5173
 RUN addgroup react && adduser -S -G react react
+USER react
 CMD ["npm", "run", "dev"]
