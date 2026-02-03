@@ -24,7 +24,7 @@ describe('Prueba de otros tests', () => {
         assert.equal(3 - 4, -1, "No son iguales")
     })
 
-    it('prueba de otra cosa 2!!!!', () => {
+    it('prueba de otra cosa 3!!!!', () => {
         assert.equal(3 - 4, -1, "No son iguales")
     })
 })
