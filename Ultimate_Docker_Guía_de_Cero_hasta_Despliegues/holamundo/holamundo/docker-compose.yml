@@ -23,6 +23,7 @@ services:
       DB_URL: mongodb://db/gamifytest
     volumes:
       - ./backend/app:/app/app
+      - ./backend/tests:/app/tests
     depends_on:
       - db
     command: npm test
