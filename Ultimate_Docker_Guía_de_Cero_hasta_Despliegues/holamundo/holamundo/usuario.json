@@ -1,0 +1,11 @@
+{
+    "nombre": "Pepe",
+    "apellido": "La Casa",
+    "edad": 28,
+    "activo": true,
+    "etiquetas": ["Instructor", "Desarrollador"],
+    "direccion": {
+        "calle": "Queen st",
+        "numero": 503
+    }
+}
