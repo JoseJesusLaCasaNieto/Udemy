@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" alt="Udemy Logo" width="300"/>
+  <img src="Images/udemy_logo.avif" alt="Udemy Logo" width="300"/>
 </p>
 
 # Udemy Courses
