@@ -27,6 +27,7 @@ Some of the technologies and tools covered across different courses include:
 - Docker
 - Git
 - APIs
+- SQL
 - Data processing libraries
 - Machine learning frameworks
 
